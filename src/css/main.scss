@@ -1,0 +1,15 @@
+$color_red :red;
+$color_blue:blue;
+$wh100 : 1000px;
+
+.test{
+  background-color: $color_red;
+  width: $wh100;
+  height: $wh100;
+}
+
+.test1{
+  background-color: $color_blue;
+  width: $wh100;
+  height: $wh100;
+}
